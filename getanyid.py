@@ -1,6 +1,6 @@
 #Copyright ©️ 2022 TeLe TiPs. All Rights Reserved
 #You are free to use this code in any of your project, but you MUST include the following in your README.md (Copy & paste)
-# ##Credits - [GetAnyIDBot by TeLe TiPs] (https://github.com/teletips/GetAnyID-TeLeTiPs)
+# ##Credits - [GetAnyID bot by TeLe TiPs] (https://github.com/teletips/GetAnyID-TeLeTiPs)
 
 from pyrogram import Client, filters
 from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
