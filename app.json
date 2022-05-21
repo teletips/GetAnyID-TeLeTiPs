@@ -1,0 +1,32 @@
+{
+    "name": "GetAnyID",
+    "description": "Fast and simple Telegram bot to provide user/group/channel ID. This bot can also work in group chats.",
+    "repository": "https://github.com/teletips/GetAnyID-TeLeTiPs",
+    "logo": "https://telegra.ph/file/a2cb115521075d0e44aae.jpg",
+    "keywords": [
+        "chat id",
+        "user id",
+        "channel id",
+        "chat information",
+        "user information",
+        "channel information",
+        "Telegram bot",
+        "Pyrogram bot"
+    ],
+    "env": {
+        "API_ID": {
+            "description": "Get from my.telegram.org/apps"
+        },
+        "API_HASH": {
+            "description": "Get from my.telegram.org/apps"
+        },
+        "BOT_TOKEN": {
+            "description": "Get from Telegram's @BotFather"
+        }
+    },
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ]
+}
