@@ -24,9 +24,9 @@
 3. `BOT_TOKEN` : A Valid Telegram Bot Token, get it from @Botfather
 
 ## Commands
-```
-  /id
-```
+
+  `/id`
+
 - Works in both private and group chat.
 ```
 To get an ID, simply send the command /id directly to any chat or send it as a reply to any kind of message.
