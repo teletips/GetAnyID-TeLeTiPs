@@ -27,7 +27,7 @@
 
 - /id
 
-Works in both private chat and group chat.
+  Works in both private and group chat.
 ```
 To get an ID, simply send the command /id directly to any chat or send it as a reply to any kind of message.
 ```
