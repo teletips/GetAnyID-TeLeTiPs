@@ -25,7 +25,7 @@
 
 ## Commands
 
-/id
+  /id
 
 - Works in both private and group chat.
 ```
