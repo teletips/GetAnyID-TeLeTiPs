@@ -1,4 +1,4 @@
-<h1 align= center>Whois-TeLeTiPs</h1>
+<h1 align= center>GetAnyID-TeLeTiPs</h1>
 <h3 align = center>Fast and simple Telegram bot to provide user/group/channel ID. This bot can also work in group chats.</h3>
 <p align="center">
 <a href="https://python.org"><img src="http://forthebadge.com/images/badges/made-with-python.svg" alt="made-with-python"></a>
