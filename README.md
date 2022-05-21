@@ -25,9 +25,9 @@
 
 ## Commands
 
-- /id
+/id
 
-  Works in both private and group chat.
+- Works in both private and group chat.
 ```
 To get an ID, simply send the command /id directly to any chat or send it as a reply to any kind of message.
 ```
@@ -35,3 +35,10 @@ To get an ID, simply send the command /id directly to any chat or send it as a r
 - [TeLe TiPs](https://github.com/teletips)
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
 
+## Friendly Warning
+
+- You are free to use this code in any of your projects, but you MUST include the following in your README.md (Copy & paste)
+```
+##Credits
+- [GetAnyID bot by TeLe TiPs] (https://github.com/teletips/GetAnyID-TeLeTiPs)
+```
