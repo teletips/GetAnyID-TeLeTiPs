@@ -3,7 +3,7 @@
 # ##Credits - [GetAnyID bot by TeLe TiPs] (https://github.com/teletips/GetAnyID-TeLeTiPs)
 
 from pyrogram import Client, filters
-from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
+from pyrogram.types import Message
 import os
 
 GetAnyIDBot=Client(
