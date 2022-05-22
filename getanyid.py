@@ -19,7 +19,7 @@ async def start(client, message):
 Heya {message.from_user.mention},
 I am here to provide Telegram user and chat ID.
 
-To get an ID, simply send the command <code>/id</code> directly to any chat or send it as a reply to any kind of message.
+To get ID, simply send the command <code>/id</code> directly to any chat or send it as a reply to any message.
 
 I can also work in group chats.
 
