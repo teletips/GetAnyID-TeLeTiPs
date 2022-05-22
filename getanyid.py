@@ -17,7 +17,7 @@ GetAnyIDBot=Client(
 async def start(client, message):
     text = f"""
 Heya {message.from_user.mention},
-My name is <b>GetAnyID</b>. I am here to provide user and chat ID.
+I am here to provide Telegram user and chat ID.
 
 To get an ID, simply send the command <code>/id</code> directly to any chat or send it as a reply to any kind of message.
 
